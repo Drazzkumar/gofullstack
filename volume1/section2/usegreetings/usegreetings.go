@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/EngineerKamesh/gofullstack/volume1/section2/greetingspackage"
+	"github.com/razzkumar/gofullstack/volume1/section2/greetingspackage"
 )
 
 func main() {

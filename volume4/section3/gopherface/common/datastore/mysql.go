@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section3/gopherface/models/socialmedia"
+	"github.com/razzkumar/gofullstack/volume4/section3/gopherface/models/socialmedia"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section3/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume4/section3/gopherface/models"
 
 	_ "github.com/go-sql-driver/mysql"
 )

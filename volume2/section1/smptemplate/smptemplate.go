@@ -7,13 +7,13 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/EngineerKamesh/gofullstack/volume1/section5/socialmedia"
+	"github.com/razzkumar/gofullstack/volume1/section5/socialmedia"
 )
 
 // Handler for displaying a social media post
 func displaySocialMediaPostHandler(w http.ResponseWriter, r *http.Request) {
 
-	myPost := socialmedia.NewPost("EngineerKamesh", socialmedia.Moods["thrilled"], "Go is awesome!", "Check out the Go web site!", "https://golang.org", "/images/gogopher.png", "", []string{"go", "golang", "programming language"})
+	myPost := socialmedia.NewPost("razzkumar", socialmedia.Moods["thrilled"], "Go is awesome!", "Check out the Go web site!", "https://golang.org", "/images/gogopher.png", "", []string{"go", "golang", "programming language"})
 	fmt.Printf("myPost: %+v\n", myPost)
 	renderTemplate(w, "./templates/socialmediapost.html", myPost)
 }

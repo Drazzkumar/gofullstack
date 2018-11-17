@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/common/authenticate"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/common/authenticate"
 )
 
 func GatedContentHandler(next http.HandlerFunc) http.Handler {

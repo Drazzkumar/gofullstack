@@ -1,9 +1,9 @@
 package datastore
 
 import (
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/models/socialmedia"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/models/socialmedia"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/models"
 )
 
 type Datastore interface {

@@ -4,11 +4,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section7/gopherfaceq/common"
-	"github.com/EngineerKamesh/gofullstack/volume2/section7/gopherfaceq/common/asyncq"
-	"github.com/EngineerKamesh/gofullstack/volume2/section7/gopherfaceq/common/datastore"
-	"github.com/EngineerKamesh/gofullstack/volume2/section7/gopherfaceq/handlers"
-	"github.com/EngineerKamesh/gofullstack/volume2/section7/gopherfaceq/middleware"
+	"github.com/razzkumar/gofullstack/volume2/section7/gopherfaceq/common"
+	"github.com/razzkumar/gofullstack/volume2/section7/gopherfaceq/common/asyncq"
+	"github.com/razzkumar/gofullstack/volume2/section7/gopherfaceq/common/datastore"
+	"github.com/razzkumar/gofullstack/volume2/section7/gopherfaceq/handlers"
+	"github.com/razzkumar/gofullstack/volume2/section7/gopherfaceq/middleware"
 
 	"net/http"
 

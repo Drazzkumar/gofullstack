@@ -11,7 +11,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section1/intermediate/model"
+	"github.com/razzkumar/gofullstack/volume3/section1/intermediate/model"
 )
 
 var addr = flag.String("addr", "localhost:8080", "http service address")

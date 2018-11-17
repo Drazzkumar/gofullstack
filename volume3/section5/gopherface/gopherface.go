@@ -6,11 +6,11 @@ import (
 
 	"go.isomorphicgo.org/go/isokit"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/common"
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/common/datastore"
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/endpoints"
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/handlers"
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/middleware"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/common"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/common/datastore"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/endpoints"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/handlers"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/middleware"
 
 	"net/http"
 

@@ -1,6 +1,6 @@
 package models
 
-import "github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/forms"
+import "github.com/razzkumar/gofullstack/volume3/section5/gopherface/forms"
 
 type UserProfile struct {
 	PageTitle        string `json:"pageTitle", bson:"pageTitle"`

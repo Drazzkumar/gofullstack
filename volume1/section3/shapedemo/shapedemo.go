@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/EngineerKamesh/gofullstack/volume1/section3/simpleshape"
+	"github.com/razzkumar/gofullstack/volume1/section3/simpleshape"
 )
 
 func main() {

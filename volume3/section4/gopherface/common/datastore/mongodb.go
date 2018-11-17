@@ -3,7 +3,7 @@ package datastore
 import (
 	"fmt"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section4/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume3/section4/gopherface/models"
 
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

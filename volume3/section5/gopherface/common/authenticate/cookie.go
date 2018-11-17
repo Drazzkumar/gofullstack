@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/models"
 
 	"github.com/gorilla/securecookie"
 )

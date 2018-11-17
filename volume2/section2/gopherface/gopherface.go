@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section2/gopherface/endpoints"
-	"github.com/EngineerKamesh/gofullstack/volume2/section2/gopherface/handlers"
-	"github.com/EngineerKamesh/gofullstack/volume2/section2/gopherface/middleware"
+	"github.com/razzkumar/gofullstack/volume2/section2/gopherface/endpoints"
+	"github.com/razzkumar/gofullstack/volume2/section2/gopherface/handlers"
+	"github.com/razzkumar/gofullstack/volume2/section2/gopherface/middleware"
 	ghandlers "github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 )

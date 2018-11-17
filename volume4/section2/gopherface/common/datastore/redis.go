@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section2/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume4/section2/gopherface/models"
 
 	"github.com/mediocregopher/radix.v2/pool"
 )

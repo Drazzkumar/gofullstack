@@ -5,7 +5,7 @@ import (
 
 	"go.isomorphicgo.org/go/isokit"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section4/gopherface/common"
+	"github.com/razzkumar/gofullstack/volume3/section4/gopherface/common"
 )
 
 func MyProfileHandler(env *common.Env) http.HandlerFunc {

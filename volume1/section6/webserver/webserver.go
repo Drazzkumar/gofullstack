@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/EngineerKamesh/gofullstack/volume1/section5/validationkit"
+	"github.com/razzkumar/gofullstack/volume1/section5/validationkit"
 )
 
 func helloGopherHandler(w http.ResponseWriter, r *http.Request) {

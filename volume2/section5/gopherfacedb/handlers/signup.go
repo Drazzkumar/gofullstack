@@ -5,10 +5,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section5/gopherfacedb/common"
-	"github.com/EngineerKamesh/gofullstack/volume2/section5/gopherfacedb/models"
+	"github.com/razzkumar/gofullstack/volume2/section5/gopherfacedb/common"
+	"github.com/razzkumar/gofullstack/volume2/section5/gopherfacedb/models"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section5/gopherfacedb/validationkit"
+	"github.com/razzkumar/gofullstack/volume2/section5/gopherfacedb/validationkit"
 )
 
 type SignUpForm struct {
@@ -113,7 +113,7 @@ func ProcessSignUpForm(w http.ResponseWriter, r *http.Request, s *SignUpForm, e 
 		log.Print(err)
 	}
 
-	user, err := e.DB.GetUser("EngineerKamesh")
+	user, err := e.DB.GetUser("razzkumar")
 	if err != nil {
 		log.Print(err)
 	} else {

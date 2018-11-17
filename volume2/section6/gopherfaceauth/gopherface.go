@@ -4,10 +4,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/common"
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/common/datastore"
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/handlers"
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/middleware"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/common"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/common/datastore"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/handlers"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/middleware"
 
 	"net/http"
 

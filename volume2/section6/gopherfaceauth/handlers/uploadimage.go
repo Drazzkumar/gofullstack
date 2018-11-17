@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/common/asyncq"
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/common/utility"
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/tasks"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/common/asyncq"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/common/utility"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/tasks"
 )
 
 type UploadImageForm struct {

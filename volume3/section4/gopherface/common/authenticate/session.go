@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section4/gopherface/models"
+	"github.com/razzkumar/gofullstack/volume3/section4/gopherface/models"
 
 	"github.com/gorilla/sessions"
 )

@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"html/template"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section1/intermediate/model"
+	"github.com/razzkumar/gofullstack/volume3/section1/intermediate/model"
 	"honnef.co/go/js/dom"
 	"honnef.co/go/js/xhr"
 )

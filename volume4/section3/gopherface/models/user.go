@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section3/gopherface/common/utility"
+	"github.com/razzkumar/gofullstack/volume4/section3/gopherface/common/utility"
 )
 
 type User struct {

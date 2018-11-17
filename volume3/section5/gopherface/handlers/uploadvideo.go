@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/EngineerKamesh/gofullstack/volume3/section5/gopherface/common/utility"
+	"github.com/razzkumar/gofullstack/volume3/section5/gopherface/common/utility"
 )
 
 type UploadVideoForm struct {

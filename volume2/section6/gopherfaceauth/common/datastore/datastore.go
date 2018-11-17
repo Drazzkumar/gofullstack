@@ -1,6 +1,6 @@
 package datastore
 
-import "github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/models"
+import "github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/models"
 
 type Datastore interface {
 	CreateUser(user *models.User) error

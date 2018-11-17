@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section6/gopherfaceauth/models/socialmedia"
+	"github.com/razzkumar/gofullstack/volume2/section6/gopherfaceauth/models/socialmedia"
 )
 
 type PostForm struct {

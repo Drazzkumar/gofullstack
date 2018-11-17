@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section2/gopherface/common/authenticate"
+	"github.com/razzkumar/gofullstack/volume4/section2/gopherface/common/authenticate"
 
-	"github.com/EngineerKamesh/gofullstack/volume4/section2/gopherface/common"
+	"github.com/razzkumar/gofullstack/volume4/section2/gopherface/common"
 )
 
 func FollowGopherEndpoint(env *common.Env) http.HandlerFunc {

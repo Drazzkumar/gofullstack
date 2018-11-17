@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/EngineerKamesh/gofullstack/volume2/section4/gopherfaceform/handlers"
-	"github.com/EngineerKamesh/gofullstack/volume2/section4/gopherfaceform/middleware"
+	"github.com/razzkumar/gofullstack/volume2/section4/gopherfaceform/handlers"
+	"github.com/razzkumar/gofullstack/volume2/section4/gopherfaceform/middleware"
 
 	"net/http"
 	"os"

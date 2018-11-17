@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/EngineerKamesh/gofullstack/volume2/section5/gopherfacedb/common/utility"
+	"github.com/razzkumar/gofullstack/volume2/section5/gopherfacedb/common/utility"
 
 	"github.com/nfnt/resize"
 )
